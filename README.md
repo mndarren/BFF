@@ -34,18 +34,17 @@ for each different user.
 	5. Search and setting: basic search and setting option.
 Users can search what they want from the app DB or from google DB.
 
-	Introduction of the current version:
-	The current version is just a prototype which completed some basic functions. This version 
-is for users' experience and we hope that we can collect some feedback from the users.
+	Introduction of the current version
+The current version is just a prototype which completed some basic functions. This version is 
+for users' experience and we hope that we can collect some feedback from the users.
 
-	Future Plan:
-	This project will be kept going, and the first release will be posted on Google Store once
+	Future Plan
+This project will be kept going, and the first release will be posted on Google Store once 
 the development team think that it satisfy the basic needs of our customers. Once the app is 
-accepted by students, we believe that the most students will install it. At that time, we will 
-do some commercial things. Of cource, all things will focus on to provide students real good
-service. Our goal is to build an app which really satisfy our students by providing best services.
+accepted by students, we believe that the most students will install it. At that time, we 
+will do some commercial things. Of cource, all things will focus on to provide students real 
+good service. Our goal is to build an app which really satisfy our students by providing best services.
 
-	
 	Invitation:
-	This is a real good idea, and this project needs some developers to join us. We invite you, 
+This is a real good idea, and this project needs some developers to join us. We invite you,
 who really want to do some meaningful thing, some significative thing.
