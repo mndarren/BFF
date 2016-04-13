@@ -13,8 +13,8 @@ collect and refine the most necessary info from different places. The basic idea
 students to easily find what they want and what they need.
 	
 	Functionalities of the project:
-	1. Office Hour: this module will satisfy students' need to meet professors. When the
-office hour icon is touched, the list of professors they may want to meet will show up. To
+	1. Office Hour: this module will satisfy students' need to meet professors. 
+When the office hour icon is touched, the list of professors they may want to meet will show up. To
 click any one will show the professor's office hour schedule. At the starting using this
 project, user can get their professor list item by searching the DB. The app will remember
 their records, and automatically list the most important first 10 professors for the user.
@@ -23,16 +23,16 @@ their records, and automatically list the most important first 10 professors for
 The app will remember users' clicking record, and send notification of their most concerning
 to them.
 
-	3. Event News: this module will show users the important notification about events and news
-of some special office, such as Public Safety Center, Career office, Student Union, Ticket office,
+	3. Event News: this module will show users imformation of important events and news.
+Some notification of some special office, such as Public Safety Center, Career office, Student Union, Ticket office,
 etc.
 
-	4. Me: This module is to register account and their information for users. In the back end, app
-will analyze those info and users' action record info, and then find what kinds of service is best
+	4. Me: This module is to register account and their information for users.
+In the back end, app will analyze those info and users' action record info, and then find what kinds of service is best
 for each different user.
 
-	5. Search and setting: basic search and setting option. Users can search what they want from 
-the app DB or from google DB.
+	5. Search and setting: basic search and setting option.
+Users can search what they want from the app DB or from google DB.
 
 	Introduction of the current version:
 	The current version is just a prototype which completed some basic functions. This version 
