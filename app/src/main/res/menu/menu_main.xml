@@ -1,0 +1,43 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.harrison.bffofscsu.MainActivity">
+
+    <item
+        android:id="@+id/office_hour"
+        android:orderInCategory="100"
+        android:icon="@drawable/office_hour_icon"
+        android:title="@string/office_hour"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/free_resource"
+        android:orderInCategory="100"
+        android:icon="@drawable/free_resource_icon"
+        android:title="@string/free_resource"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/event_news"
+        android:orderInCategory="100"
+        android:icon="@drawable/event_news_icon"
+        android:title="@string/event_news"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/me"
+        android:orderInCategory="100"
+        android:icon="@drawable/me_icon"
+        android:title="@string/me"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/search"
+        android:orderInCategory="100"
+        android:icon="@drawable/search"
+        android:title="@string/search_hint"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.support.v7.widget.SearchView"/>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:icon="@drawable/setting"
+        android:title="@string/action_settings"
+        app:showAsAction="ifRoom|collapseActionView" />
+</menu>

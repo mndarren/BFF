@@ -1,0 +1,61 @@
+commit 565a68132ad5f9a24a007efb2091f1ab0febc1bc
+Author: mndarren <mndarren@gmail.com>
+Date:   Sat Apr 9 11:54:58 2016 -0500
+
+    finished one step of office hour
+
+commit a701b40b17839b345aef20eda0fcbdab8898b09d
+Author: ProfJones <harrisongsmith@live.com>
+Date:   Sat Apr 9 09:10:19 2016 -0500
+
+    Added subtext to list items
+
+commit 39516d227bb9d4646e7ec0d8ae63c9793cc9ee92
+Author: ProfJones <harrisongsmith@live.com>
+Date:   Sat Apr 9 08:02:00 2016 -0500
+
+    Added A list for free activites
+
+commit 06acd73589933d0a4f49d542e3478ddad15b423b
+Merge: 608edf9 0e137ed
+Author: mndarren <mndarren@gmail.com>
+Date:   Sat Apr 9 01:30:41 2016 -0500
+
+    Merge branch 'master' of https://github.com/ProfJones/BFFOfSCSU
+
+commit 608edf9a408feceef270adeae5e4b2e1931e325b
+Author: mndarren <mndarren@gmail.com>
+Date:   Sat Apr 9 01:28:24 2016 -0500
+
+    adding files
+
+commit 0e137edc911687fc47fc3992665c6312b90d1597
+Merge: 7adc9e7 92b5a66
+Author: ProfJones <harrisongsmith@live.com>
+Date:   Sat Apr 9 01:20:47 2016 -0500
+
+    Fixed merge commits
+
+commit 7adc9e791d05bf69e406f0f4166c3fea3659da99
+Author: ProfJones <harrisongsmith@live.com>
+Date:   Sat Apr 9 01:18:01 2016 -0500
+
+    adding files
+
+commit 92b5a66dd09a93c8517b444144a1c17dbb922ce6
+Author: mndarren <mndarren@gmail.com>
+Date:   Sat Apr 9 00:47:02 2016 -0500
+
+    Action bar
+
+commit d14b6d4552188e3150f4e8d9b7f0dfe6eb0e468c
+Author: mndarren <mndarren@gmail.com>
+Date:   Sat Apr 9 00:41:49 2016 -0500
+
+    first commit
+
+commit f3734b5312084ceb5e7ea28fc86f63f711aa7c13
+Author: ProfJones <harrisongsmith@live.com>
+Date:   Fri Apr 8 22:16:20 2016 -0500
+
+    first commit
